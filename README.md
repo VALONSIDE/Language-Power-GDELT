@@ -59,7 +59,7 @@ The project automatically generates **IEEE-compliant black-and-white figures** o
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/Language-Power-GDELT.git
+    git clone https://github.com/VALONSIDE/Language-Power-GDELT.git
     cd Language-Power-GDELT
     ```
 
@@ -90,4 +90,5 @@ The project automatically generates **IEEE-compliant black-and-white figures** o
 *   **Analysis:** 30-day rolling average applied to smooth daily noise; Descriptive statistics for cross-national comparison.
 
 ---
+
 *This project is for academic research purposes only.*
